@@ -1,6 +1,6 @@
-### Hi there 👋
+I'm Mads and I am an electronic music composer and software developer. My day job is as a software developer at [Torso Electronics](https://torsoelectronics.com/) where I help develop musical instruments for the future. I live in Copenhagen, Denmark and produce electronic music, read books and drink tea 🌱
 
-I'm Mads and I am an electronic music composer and software developer. My day job is as a software developer at [Torso Electronics](https://torsoelectronics.com/) where I help develop musical instruments for the future. In my spare time I produce electronic music, read books and drink tea.
+Most of my projects on here are related to digital sound, interactive art and the tools to create both of those.
 
 ### Projects
 
@@ -15,7 +15,6 @@ I'm Mads and I am an electronic music composer and software developer. My day jo
 - [dotbot-quark](https://github.com/madskjeldgaard/dotbot-quark) – Install SuperCollider packages (quarks) in dotbot
 - [Drums.quark](https://github.com/madskjeldgaard/Drums.quark) – (WORK IN PROGRESS) A collection of drum synthdefs for SuperCollider
 - [Else](https://github.com/madskjeldgaard/Else) – A collection of useful and/or weird pattern classes for SuperCollider
-- [eurorack](https://github.com/madskjeldgaard/eurorack) – Eurorack modules
 - [faust.quark](https://github.com/madskjeldgaard/faust.quark) – Create SuperCollider packages with automatically compiled Faust plugins
 - [faustgen-supercollider](https://github.com/madskjeldgaard/faustgen-supercollider) – Livecode Faust in SuperCollider using an embedded Faust compiler.
 - [faustquark-example](https://github.com/madskjeldgaard/faustquark-example) – An example of how to use Faust.quark
@@ -50,6 +49,7 @@ I'm Mads and I am an electronic music composer and software developer. My day jo
 - [sclang-format.nvim](https://github.com/madskjeldgaard/sclang-format.nvim) – SuperCollider formatter for neovim
 
 #### Hardware
+- [storks-firmware](https://github.com/madskjeldgaard/storks-firmware) - firmware for the storks controller
 - [mico](https://github.com/madskjeldgaard/mico) – Matchbox sized 14 bit midi controller based on the Raspberry Pi Pico
 - [mico-sc](https://github.com/madskjeldgaard/mico-sc) – SuperCollider interface for the Mico controller
 - [MasterVolumeController](https://github.com/madskjeldgaard/MasterVolumeController) – Just a cheap Teensy-based midi controller to adjust the volume / mute RME TotalMix
