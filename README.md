@@ -1,3 +1,9 @@
-I'm Mads and I am an electronic music composer and software developer. I enjoy working with audio software and hardware. I live in Copenhagen, Denmark and produce electronic music, read books and drink tea. 🌱
+I'm Mads and I am a music composer, artist and software developer. 
 
-Most of my projects on here are related to digital sound, interactive art and the tools to create both of those.
+See these websites for more info:
+
+👁️ Personal: [https://madskjeldgaard.dk](https://madskjeldgaard.dk)
+
+👽 Creative tech: [https://hyaline.systems](hyaline.systems)
+
+🎧 Music label: [https://exformal.art](exformal.art)
