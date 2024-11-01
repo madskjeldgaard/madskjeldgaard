@@ -4,6 +4,6 @@ See these websites for more info:
 
 👁️ Personal: [https://madskjeldgaard.dk](https://madskjeldgaard.dk)
 
-👽 Creative tech: [https://hyaline.systems](hyaline.systems)
+👽 Creative tech: [https://hyaline.systems](https://hyaline.systems)
 
-🎧 Music label: [https://exformal.art](exformal.art)
+🎧 Music label: [https://exformal.art](https://exformal.art)
