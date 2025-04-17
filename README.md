@@ -8,4 +8,7 @@ See these websites for more info:
 
 🎧 Music label: [https://exformal.art](https://exformal.art)
 
-PS. Nowadays I do most of my open source development on Codeberg: [madskjeldgaard](https://codeberg.org/madskjeldgaard) && [hyaline-systems](https://codeberg.org/hyaline-systems)
+🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
+FIND ME ON CODEBERG:
+
+Nowadays I do most of my open source development on Codeberg: [madskjeldgaard](https://codeberg.org/madskjeldgaard) && [hyaline-systems](https://codeberg.org/hyaline-systems)
